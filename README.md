@@ -56,6 +56,7 @@ Things you may want to cover:
 - has_many :messages
 - has_many :groups
 
+
 ## groupsテーブル
 
 |Column|Type|Options|
